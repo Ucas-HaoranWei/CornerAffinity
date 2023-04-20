@@ -1,6 +1,9 @@
 # CornerAffinity
 ```
-This repo is based on CornerNet and you can train and eval it via the CornerNet commands：https://github.com/princeton-vl/CornerNet
+This repo is based on CornerNet and you can train and eval it via the CornerNet commands：
+```
+[https://github.com/princeton-vl/CornerNet]
+```
 ```
 If you find this code is helpful to your research, please cite:
 ```
